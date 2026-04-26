@@ -1,8 +1,0 @@
-Crop Yield Prediction Project
-
-Baseline Model R2: 0.9516245855497497
-Feature Selection Model R2: 0.8630432850410952
-Compressed Model R2: 0.8898510199153709
-
-Baseline Model Size: 9.602570533752441 MB
-Compressed Model Size: 0.2166757583618164 MB
